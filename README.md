@@ -8,19 +8,30 @@ Real-time tracking for renters
 File upload with Multer for property images
 Validation with form libraries
 
+
 Technology Stack:
+
 Frontend: React.js
+
 Backend: Node.js, Express.js
+
 Database: MongoDB
+
 Libraries: Axios, Multer
 
 Installation:
+
 Clone the repository:
+
 git clone https://github.com/dparikh07/Accomodation-Booking-Web-App
 
+
 Install the dependencies:
+
 npm install
+
 Start the backend and frontend:
+
 npm run dev
 
 Visit http://localhost:3000 to interact with the application.
